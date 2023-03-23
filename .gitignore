@@ -351,4 +351,5 @@ MigrationBackup/
 
 .venv
 
-.mlruns/
+mlruns/
+Lab1 - LoadProfilesClustering/solutions/
